@@ -59,3 +59,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwardzhang5&show_icons=true&theme=algolia" alt="edwardzhang5" /></p>
+
+<h4 align="center">Check out my repositories below!</h4>
