@@ -1,6 +1,16 @@
 <h1 align="center"> 👋 Hi, I'm Edward Zhang</h1>
 <h3 align="center">I'm a undergraduate student interested in tech and finance!</h3>
 
+<p>
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/edwardzhang5" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="ln" height="40" width="50" /> </a>
+<a href="https://www.facebook.com/edward.zhang.353250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="fb" height="40" width="50" /> </a>
+<a href="https://www.instagram.com/_edward_zhang_/?hl=en" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="insta" height="42" width="42" /> </a>
+
+
+</p>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
