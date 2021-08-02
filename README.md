@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for **summer internship opportunities** anywhere around the United States!
 
-- 💬 Ask me about my 3D printer. 👀
+- 💬 Check out my personal website [here](https://edwardzhang5.github.io/) (work in progress). 👀
 
 - 📫 Send me an email! [Gmail](mailto:edwardzhang5@gmail.com)
 
