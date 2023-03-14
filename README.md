@@ -2,7 +2,7 @@
 <h3 align="center"><b>I'm a undergraduate student interested in tech and finance!</b></h3>
 
 
-- 📖 I’m currently studying **Computer Engineering and Finance** at the University of Florida.
+- 📖 I’m currently studying **Computer Engineering and Finance** at the University of Florida🐊.
 
 - 💼 I will be starting at **Bloomberg** in the fall as a full-time Software Engineer.
 
