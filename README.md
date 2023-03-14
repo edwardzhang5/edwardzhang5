@@ -4,11 +4,9 @@
 
 - 📖 I’m currently studying **Computer Engineering and Finance** at the University of Florida.
 
-- 💼 This summer, I am interning at **Google** on the Drive Sharing team.
+- 💼 I will be starting at **Bloomberg** in the fall as a full-time Software Engineer.
 
 - 💡 I’m currently learning about **unsupervised machine learning for image recognition**.
-
-- 🤔 I’m looking for **entry-level SWE positions** anywhere around the United States!
 
 - 💬 Check out my personal website [here](https://edwardzhang5.github.io/) (work in progress). 👀
 
